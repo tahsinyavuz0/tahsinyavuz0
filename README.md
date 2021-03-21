@@ -6,7 +6,7 @@
 ### 🤝🏻 Sosyal
 
 <p align="left">
-<a href="https://instagram.com/tahsinyavuz00000" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt="Instagram" /></a>
+<a href="https://instagram.com/tahsinyavuz00000" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"Instagram" /></a>
 </p>
 
 ### 🎧 Dinliyor
